@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="MaryHelp.Business.Client">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAEAAQAAABAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaryHelp.Business.Job">
+    <Position X="2.25" Y="11" Width="4" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="MaryHelp.Business.Job.STATUS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Job.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAmAJAsARQCAAACGAyACAAAAAAACBAAAMIAQkAAAAc=</HashCode>
+      <FileName>Job.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Client" />
+      <Property Name="Worker" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MaryHelp.Business.User">
+    <Position X="4" Y="3" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAACCAIAAAUAAQIACAAABADAAAAAgAAACg=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Province" />
+      <Property Name="City" />
+      <Property Name="Neighborhood" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MaryHelp.Business.Worker">
+    <Position X="3.5" Y="7.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAgAAIACAEAAAAAAAAAAAQgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaryHelp.Business.City">
+    <Position X="9.5" Y="5.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>City.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Province" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MaryHelp.Business.Province">
+    <Position X="9.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Province.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaryHelp.Business.Neighborhood">
+    <Position X="9.5" Y="8.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAIAAAAAAQAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Neighborhood.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="City" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

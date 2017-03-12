@@ -1,0 +1,35 @@
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Business.dll
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Business.pdb
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\obj\Debug\Business.dll
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\obj\Debug\Business.pdb
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Business.dll.config
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Data.dll
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\MySql.Data.dll
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Data.pdb
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\MySql.Data.xml
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\obj\Debug\Business.dll
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\obj\Debug\Business.pdb
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Business.dll.config
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Business.dll
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Business.pdb
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Data.dll
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Data.pdb
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\MySql.Data.xml
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Util.dll
+C:\Users\Aapezzatto3803\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Util.pdb
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Util.dll
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Util.pdb
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Business.dll.config
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Business.dll
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Business.pdb
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Data.dll
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\MySql.Data.dll
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Util.dll
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Util.pdb
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\Data.pdb
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\bin\Debug\MySql.Data.xml
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\obj\Debug\Business.dll
+C:\Users\ApezzattoApezzatto\Google Drive\Conestoga\1st Term\PROG8145 - Software Development Techniques\Project\MaryHelp\Business\obj\Debug\Business.pdb
