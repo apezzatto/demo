@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Script Page</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css" title="Style1">
+		<script src="js/functions.js"></script>
+    </head>
+    <body>
+		<div class="top">
+			<div class="about"><a href="#">About Us</a></div>
+		</div>
+		<div class="main">
+			<form name="signup" onsubmit="return validate()">
+				<table>
+					<tr>
+						<th class="header" colspan="2">
+							Sign Up
+						</th>
+					</tr>
+					<tr>
+						<td class="label">Name:</td>
+						<td><input type="text" name="name">&nbsp;<span class="mark" id="nameMark"></span></td>
+					</tr>
+					<tr>
+						<td class="label">Email:</td>
+						<td><input type="text" name="email">&nbsp;<span class="mark" id="emailMark"></span></td>
+					</tr>					
+					<tr>
+						<td class="label">Password:</td>
+						<td><input type="password" name="pass">&nbsp;<span class="mark" id="passMark"></span></td>
+					</tr>										
+					<tr>
+						<td class="label">Confirm Password:</td>
+						<td><input type="password" name="confpass">&nbsp;<span class="mark" id="confPassMark"></span></td>
+					</tr>					
+					<tr>
+						<td class="label">Telephone #:</td>
+						<td><input type="text" name="telephone">&nbsp;<span class="mark" id="telMark"></span></td>
+					</tr>										
+					<tr>
+						<td class="label">Web site:</td>
+						<td><input type="text" name="site">&nbsp;<span class="mark" id="siteMark"></span></td>
+					</tr>															
+					<tr>
+						<td colspan="2" class="bottom">
+							<input type="reset" value="Reset" id="reset"><input type="submit" value="Create Account" class="fancybutton"">
+						</td>
+					</tr>	
+				</table>
+				<p id="message"></p>			
+			</form>
+		</div>		
+		<footer>&copy; All rights reserved</footer>
+    </body>
+</html>
+
+
+

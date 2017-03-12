@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>World Trip</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css" title="Style1">
+        <link rel="stylesheet" type="text/css" href="css/styles_1.css" title="Style2">
+        <link rel="stylesheet" type="text/css" href="css/styles_2.css" title="Style3">
+    </head>
+    <!--Google map API AIzaSyBbpKP0sThw5T67EODt48m_8ozSLkh_hc0 -->
+    <body>
+       <div>
+        <img class="header" src="image/background.jpg">
+      </div>
+      <div>
+          <ul>
+            <li><a href="main.html">Home</a></li>
+            <li><a href="sa.html">South America</a></li>
+            <li><a href="asia.html">Asia</a></li>
+            <li><a class="active" href="europe.html">Europe</a></li>
+          </ul>           
+      </div>
+      <div class="sidebar">
+         <h3 id="MessageTitle">Your Dream Journey</h3>
+         <h5>Name:</h5><input type="textbox" name="where">
+         <h5>E-mail:</h5><input type="textbox" name="where">
+         <h5>Where would you like to go?</h5><input type="textbox" name="where"><br><br>
+         <button type="button">Submit</button>
+      </div>           
+      <div class="content">
+         <article ><h3>Come in and travel with us</h3> - Europe has some of the <mark>most beatiful</mark> places on earth.</article>
+      </div>
+      <div class="content">
+        <iframe
+          width="600"
+          height="450"
+          frameborder="0" style="border:0"
+          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBbpKP0sThw5T67EODt48m_8ozSLkh_hc0
+          &q=europe" allowfullscreen>
+        </iframe>
+
+        <div class="quiz">
+          <h4>Which countries have you visited?</h4>
+          <input type="checkbox" name="country" value="France"> France<br>
+          <input type="checkbox" name="country" value="Germany"> Germany<br>
+          <input type="checkbox" name="country" value="Spain"> Spain<br>
+          <input type="checkbox" name="country" value="England"> England<br>
+          <input type="checkbox" name="country" value="Italy"> Italy<br><br>
+
+          <h5>What did you like the most?</h5>
+          <textarea id="txtMessage" rows="6"></textarea><br><br>
+
+          <input type="submit" value="Vote">
+        </div>
+
+      </div>
+      <div class="content">
+         <article><h4>Our travel services are the top rated in Canada.</h4></article>
+      </div>
+      <br>
+      <div>
+          <footer>
+              © All rights reserved 2016
+          </footer>
+      </div> 
+    </body>
+</html>
